@@ -13,3 +13,7 @@ approach_despawn_distance=8
 placed_block_corruption=true
 placed_block_corruption_chance=0.1
 placed_block_corruption_exclude=storage_and_inventory_blocks
+entity_silence_cycle=true
+entity_silence_every_n_nights=2
+entity_silence_duration_ticks=24000
+entity_silence_keep_only=players

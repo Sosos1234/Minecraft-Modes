@@ -11,6 +11,9 @@ This repository now contains a working Java Edition datapack for a horror watche
 - Sometimes a player-placed block is corrupted into a horror block.
   - Container/inventory blocks are excluded (chests, barrels, furnaces, shulker boxes, etc.).
 - Teleport sound and smoke particles play on despawn.
+- Every 2 nights, a "day of silence" starts:
+  - for 24000 ticks (one full day), all entities except players are removed.
+  - this includes mobs and any other non-player entities.
 
 ## Install
 
