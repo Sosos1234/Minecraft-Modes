@@ -1,1 +1,5 @@
 horror
+mob=distant_watcher
+mob_behavior=observe_from_distance
+spawn_min_distance=24
+spawn_max_distance=48
