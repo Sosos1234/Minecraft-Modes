@@ -22,3 +22,6 @@ world_break_progress_step_ticks=1200
 world_break_initial_event_cooldown_ticks=1200
 world_break_min_event_cooldown_ticks=360
 world_break_corruption_protect_storage=true
+visuals_resource_pack=true
+visuals_resource_pack_name=resourcepack_horror_sky
+visuals_broken_sky=true

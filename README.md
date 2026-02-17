@@ -25,6 +25,17 @@ This repository now contains a working Java Edition datapack for a horror watche
 2. Start the world and run `/reload`.
 3. Optionally run `/function horror:start` once.
 
+## Optional visuals (resource pack)
+
+This repository now also includes `resourcepack_horror_sky` with broken sky textures:
+
+- `assets/minecraft/textures/environment/clouds.png`
+- `assets/minecraft/textures/environment/sun.png`
+- `assets/minecraft/textures/environment/moon_phases.png`
+
+Install it into `.minecraft/resourcepacks` and enable it in-game.
+
 ## Compatibility
 
 - Minecraft Java Edition datapack format `26` (1.20.2-1.20.4 range).
+- Included resource pack uses format `22` (1.20.3-1.20.4 range).
