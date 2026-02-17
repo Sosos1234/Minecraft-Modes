@@ -7,5 +7,11 @@ scoreboard players set @a horror_replace_done 0
 scoreboard players set #night_flag horror_world 0
 scoreboard players set #night_count horror_world 0
 scoreboard players set #silence_timer horror_world 0
+scoreboard players set #break_tick horror_world 0
+scoreboard players set #break_progress horror_world 0
+scoreboard players set #break_stage horror_world 0
+scoreboard players set #break_event_cd horror_world 1200
+scoreboard players set #break_event horror_world 0
+scoreboard players set #break_roll horror_world 0
 
 tellraw @s {"text":"Horror mode started: distant watcher is active.","color":"dark_red"}

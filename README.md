@@ -14,6 +14,10 @@ This repository now contains a working Java Edition datapack for a horror watche
 - Every 2 nights, a "day of silence" starts:
   - for 24000 ticks (one full day), all entities except players are removed.
   - this includes mobs and any other non-player entities.
+- The world now slowly "breaks" over time:
+  - periodic corruption events replace random nearby blocks with decayed ones;
+  - nearby light sources can suddenly go out;
+  - at higher decay stages, small terrain patches rot.
 
 ## Install
 
