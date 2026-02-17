@@ -1,0 +1,10 @@
+{
+  "criteria": {
+    "placed_block": {
+      "trigger": "minecraft:placed_block"
+    }
+  },
+  "rewards": {
+    "function": "horror:blocks/on_place"
+  }
+}

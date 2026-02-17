@@ -10,3 +10,6 @@ crosshair_zone=upper_body
 crosshair_lock_ticks=2
 despawn_on_player_approach=true
 approach_despawn_distance=8
+placed_block_corruption=true
+placed_block_corruption_chance=0.1
+placed_block_corruption_exclude=storage_and_inventory_blocks

@@ -8,6 +8,8 @@ This repository now contains a working Java Edition datapack for a horror watche
 - The watcher disappears if:
   - a player keeps the crosshair on its upper-body target zone for 2 ticks;
   - a player approaches within 8 blocks.
+- Sometimes a player-placed block is corrupted into a horror block.
+  - Container/inventory blocks are excluded (chests, barrels, furnaces, shulker boxes, etc.).
 - Teleport sound and smoke particles play on despawn.
 
 ## Install
